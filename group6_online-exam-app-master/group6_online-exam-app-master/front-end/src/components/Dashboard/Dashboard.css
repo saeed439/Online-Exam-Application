@@ -1,0 +1,42 @@
+.brand
+{
+    font-size: 1.6em;
+    color: #4169e1 !important;
+}
+
+.logo
+{
+    height: auto;
+    width: 2em;
+}
+
+.links
+{
+    font-size: 1em;
+}
+
+.cardImage
+{
+    height: auto;
+    width: 7em;
+}
+
+.outlineButton
+{
+    color: white;
+    border-color: white;
+}
+.outlineButton:hover
+{
+    background-color: #4169e1;
+}
+
+.normalButton
+{
+    background-color: #4169e1;
+}
+
+.cardTrainee
+{
+    width: 25em;
+}

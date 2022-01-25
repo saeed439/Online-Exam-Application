@@ -1,0 +1,27 @@
+.manageUsers
+{
+    color: white;
+}
+
+.formTitle
+{
+    font-size: 2em;
+}
+
+.createUserSuccessfulMessage
+{
+    color: lightgreen;
+    font-size: 1.1em;
+}
+
+.createUserUnsuccessfulMessage
+{
+    color: red;
+    font-size: 1.1em;
+}
+
+.accessKey
+{
+    font-weight: bold;
+    font-size: 1.1em;
+}

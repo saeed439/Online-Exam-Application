@@ -1,0 +1,23 @@
+.welcomeMsg
+{
+    color:white;
+    font-size: 3em;
+}
+
+.userDetails
+{
+    color:white;
+    font-size: 1.2em;
+}
+
+.userDetailsIcon
+{
+    height: auto;
+    width: 1.2em;
+}
+
+.screenMessageImage
+{
+    height: auto;
+    width: 2em;
+}

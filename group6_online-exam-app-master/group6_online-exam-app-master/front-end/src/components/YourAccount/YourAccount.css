@@ -1,0 +1,19 @@
+.yourAccountSection
+{
+    width: 50%;
+    font-size: 1.3em;
+    color: white;
+}
+
+.yourAccountData
+{
+    font-size: 0.9em;
+}
+
+.yourAccountDataChangeable
+{
+    font-weight: bold;
+    font-size: 0.9em;
+    color: black;
+}
+

@@ -1,0 +1,18 @@
+body{
+    color: white;
+}
+#box{
+    border: 2pt solid white;
+    padding: 10pt;
+}
+
+.manageTicketsSection
+{
+    font-size: 1.1em;
+    width: 70%;
+}
+
+.btnTicketSolved
+{
+    width: 100%;
+}

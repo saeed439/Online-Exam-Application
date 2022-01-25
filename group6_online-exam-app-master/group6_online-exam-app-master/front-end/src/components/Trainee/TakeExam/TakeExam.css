@@ -1,0 +1,39 @@
+.dateDue
+{
+    color: rgb(179, 48, 48) !important;
+}
+
+.takeExamSection
+{
+    width: 70%;
+}
+
+.takeExamQuestion
+{
+    font-size: 2em;
+}
+
+.takeExamOption
+{
+    font-size: 1.3em;
+    cursor: pointer;
+    border-radius: 0.3em;
+    width: 100%
+}
+
+.takeExamText
+{
+    cursor: pointer;
+}
+
+
+.takeExamRadio 
+{ 
+    margin-left: 0.5em;
+    transform: scale(1.5); 
+}
+
+.takeExamNoExam
+{
+    font-size: 1.2em;
+}

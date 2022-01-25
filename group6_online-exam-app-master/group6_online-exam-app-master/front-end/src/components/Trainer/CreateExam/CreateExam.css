@@ -1,0 +1,42 @@
+.createExamSection
+{
+    color:white;
+    width: 80%;
+}
+
+.createExamAnswerMarks
+{
+    width: 4.5em ;
+}
+
+.createExamQuestionNumber, .createExamDetailsTitle
+{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.prevnext
+{
+    width: 7em;
+}
+
+.createExamDetails
+{
+    color: white;
+    width: 70%;
+}
+
+.createExamSummary
+{
+    font-weight: bold;
+}
+
+.createExamDetailsContent
+{
+    font-size: 1.2em;
+}
+
+.createExamQuestions
+{
+    font-size: 1.1em;
+}

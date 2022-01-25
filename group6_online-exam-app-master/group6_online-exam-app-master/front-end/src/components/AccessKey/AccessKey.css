@@ -1,0 +1,26 @@
+.accessKeyHeading
+{
+    font-size: 1.8em;
+}
+
+.accessKeySection
+{
+    font-size: 1.1em;
+    width: 50%;
+}
+
+.accessKeyData
+{
+    font-size: 1em;
+}
+
+.accessKeyChangeableData
+{
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.accessKeyAppName
+{
+    font-size: 2.5em;
+}
